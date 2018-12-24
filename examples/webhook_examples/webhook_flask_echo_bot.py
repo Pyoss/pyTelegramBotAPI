@@ -11,9 +11,9 @@ import flask
 
 import telebot
 
-API_TOKEN = '<api_token>'
+API_TOKEN = '525874076:AAHrpOItjryLt_N2-H3aQLXNtopyo5i1W_k'
 
-WEBHOOK_HOST = '<ip/host where the bot is running>'
+WEBHOOK_HOST = '138.197.188.27'
 WEBHOOK_PORT = 8443  # 443, 80, 88 or 8443 (port need to be 'open')
 WEBHOOK_LISTEN = '0.0.0.0'  # In some VPS you may need to put here the IP addr
 
